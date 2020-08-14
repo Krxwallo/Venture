@@ -21,6 +21,6 @@ description="A mod that builds upon adventuring in Minecraft"
 [[dependencies.venture]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.15.2,1.16)"
+    versionRange="[1.16.1, 1.17)"
     ordering="NONE"
     side="BOTH"
